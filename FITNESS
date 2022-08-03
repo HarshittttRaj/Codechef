@@ -1,0 +1,17 @@
+
+#include <iostream>
+using namespace std;
+
+int main() {
+	int T,X;
+	cin>>T;
+	while(T>0){
+	    cin>>X;
+	    
+	    cout<<2*X*5<<endl;
+        T--;
+	}
+	return 0;
+}
+
+
